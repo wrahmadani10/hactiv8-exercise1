@@ -1,2 +1,2 @@
 # hactiv8-exercise1
-repo untuk tugas kelas JSDDevC
+repo untuk tugas kelas JSDevC
