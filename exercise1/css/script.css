@@ -1,0 +1,48 @@
+.bgcol{
+    background-color: #019FDD;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+  }
+
+.portfolio h3{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-top:45px;
+}
+
+.portfolio h6{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+
+.contact{
+    background-color: #019FDD;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+  }
+
+.contact h3{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    margin-top:45px;
+}
+
+.contact h6{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 45px;
+}
+
+#text{
+    margin-top:25px;
+    text-align: center;
+}
+
+.font{
+    font-size: 16px;
+}
